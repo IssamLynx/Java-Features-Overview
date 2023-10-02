@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -22,3 +23,36 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Dossiers spécifiques à IntelliJ IDEA
+.idea/
+
+# Dossiers générés par le compilateur
+out/
+target/
+
+.DS_Store
+# Fichiers de configuration d'IntelliJ IDEA
+*.iml
+*.iws
+*.ipr
+
+# Fichiers de journaux de débogage
+*.log
+
+# Fichiers de sauvegarde créés par l'IDE
+.idea_workspace/
+
+# Dossiers de fichiers temporaires
+.idea_caches/
+.idea_modules/
+
+# Fichiers de l'IDE utilisateur
+.ideaCodeStyles/
+.ideaInspection/
+.ideaVcs*
+
+# Dossiers spécifiques à Maven
+/target/
+*/target/
+**/target/
