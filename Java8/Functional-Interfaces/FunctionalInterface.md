@@ -5,6 +5,16 @@
 
 En Java, une interface fonctionnelle est une interface qui définit exactement une seule méthode abstraite, appelée "méthode fonctionnelle". Les interfaces fonctionnelles sont au cœur de la programmation fonctionnelle en Java et sont largement utilisées avec des expressions lambda et des références de méthode pour créer des fonctions anonymes de manière concise.
 
+## Interfaces fonctionnelles courantes
+
+- **Function<T, R> :** Cette interface fonctionnelle prend un argument de type T et renvoie un résultat de type R. Elle est utilisée pour représenter une fonction qui effectue une opération sur l'argument et renvoie un résultat.
+
+- **Predicate<T> :** Cette interface fonctionnelle prend un argument de type T et renvoie un résultat booléen (true ou false). Elle est utilisée pour représenter une condition ou un test.
+
+- **Consumer<T> :** Cette interface fonctionnelle prend un argument de type T mais ne renvoie aucun résultat. Elle est utilisée pour représenter une opération qui consomme (utilise) l'argument.
+
+- **Supplier<T> :** Cette interface fonctionnelle ne prend aucun argument mais renvoie un résultat de type T. Elle est utilisée pour représenter une opération qui fournit ou produit un résultat.
+
 ## Utilisation des Interfaces Fonctionnelles
 
 Les interfaces fonctionnelles sont couramment utilisées dans les situations suivantes :
