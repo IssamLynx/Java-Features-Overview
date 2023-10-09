@@ -1,7 +1,7 @@
 
 ---
 
-# README - Nashorn JavaScript Engine (Java 8)
+# Nashorn JavaScript Engine (Java 8)
 
 ## Introduction
 
