@@ -32,4 +32,3 @@ Les "Méthodes par Défaut" (Default Methods) sont l'une des fonctionnalités in
 3. Lorsqu'une classe implémente plusieurs interfaces avec des méthodes par défaut portant le même nom, elle doit fournir une implémentation pour éviter l'ambiguïté.
 
 Les Méthodes par Défaut sont utiles pour étendre des interfaces existantes de manière rétrocompatible, ce qui les rend précieuses dans le cadre de l'évolution des bibliothèques Java.
-```
